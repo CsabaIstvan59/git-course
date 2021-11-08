@@ -1,1 +1,1 @@
-friss¡t‚s  "Add friss¡t‚s"
+# git-course
